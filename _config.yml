@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianhao Wu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tianhao Wu"
 description              : &description "personal description"
