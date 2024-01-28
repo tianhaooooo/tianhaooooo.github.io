@@ -24,7 +24,7 @@ Publication
 Teaching
 ======
 
-Teaching Assistant, The University of Tennessee, Knoxville
+- Teaching Assistant, The University of Tennessee, Knoxville
 
 COSC 422: Applied Machine Learning (Spring 2024)
 
