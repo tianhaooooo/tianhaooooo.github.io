@@ -23,8 +23,11 @@ Publication
 
 Teaching
 ======
+
 Teaching Assistant, The University of Tennessee, Knoxville
+
 COSC 422: Applied Machine Learning (Spring 2024)
+
 ECE 469/569: Mobile and Embedded System Security (Fall 2023)
 
 
