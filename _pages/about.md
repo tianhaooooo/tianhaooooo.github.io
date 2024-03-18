@@ -19,8 +19,8 @@ News
 
 Publication
 ======
-User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors
-Jian Liu, VP Nguyen, Yi Wu, Xiande Zhang, **Tianhao Wu**
+User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors  
+Jian Liu, VP Nguyen, Yi Wu, Xiande Zhang, **Tianhao Wu**   
 U.S. Provisional Application, September, 2023.
 
 Teaching
