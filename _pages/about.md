@@ -36,6 +36,8 @@ Teaching
 
 - **Teaching Assistant, The University of Tennessee, Knoxville**
 
+    COSC 202: Data Structure (Fall 2024)
+
     COSC 422: Applied Machine Learning (Spring 2024)
 
     ECE 469/569: Mobile and Embedded System Security (Fall 2023)
@@ -44,7 +46,7 @@ Award
 ======
 - **Fellowship / Scholarship**
 
-    Graduate School Fellowship (GSF), UTK, 2023
+    Graduate School Fellowship (GSF), UTK, 2023-2024
 
     Merit Scholarship, NEAU, 2020-2021
 
