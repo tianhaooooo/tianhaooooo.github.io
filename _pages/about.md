@@ -19,9 +19,17 @@ News
 
 Publication
 ======
+**3D Facial Tracking and User Authentication through Lightweight Single-ear Biosensors**  
+Yi Wu, Xiande Zhang, **Tianhao Wu**, Bing Zhou, Phuc Nguyen, Jian Liu
+IEEE TMC, Sep, 2024.
+
+**MM-MURE: mmWave-Based Multi-Subject Respiration Monitoring via End-to-End Deep Learning**  
+Chandler Bauder, Abdel-Kareem Moadi, Vijaysrinivas Rajagopal, **Tianhao Wu**, Jian Liu, Aly E. Fathy 
+IEEE J-ERM, Aug, 2024.
+
 **User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors**  
 Jian Liu, VP Nguyen, Yi Wu, Xiande Zhang, **Tianhao Wu**   
-U.S. Provisional Application, September, 2023.
+U.S. Provisional Application, Sep, 2023.
 
 Teaching
 ======
