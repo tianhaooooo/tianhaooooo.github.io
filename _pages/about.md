@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianhao Wu"
+title: "Tianhao Wu | 吴天昊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
