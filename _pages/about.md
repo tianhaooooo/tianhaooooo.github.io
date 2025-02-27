@@ -36,6 +36,8 @@ Teaching
 
 - **Teaching Assistant, The University of Tennessee, Knoxville**
 
+    COSC 559: Human-Computer Interaction (Spring 2025)
+  
     COSC 202: Data Structure (Fall 2024)
 
     COSC 422: Applied Machine Learning (Spring 2024)
