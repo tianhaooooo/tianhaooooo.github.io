@@ -83,11 +83,11 @@ author:
   name             : "Tianhao Wu"
   avatar           : "personal.jpg"
   bio              : "The key is to have an indomitable heart."
-  location         : "Knoxville, Tennessee, USA"
+  location         : "Athens, Georgia, USA"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/"
-  email            : "twu21@vols.utk.edu"
+  email            : "Tianhao.Wu1@uga.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-0647-8934"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
