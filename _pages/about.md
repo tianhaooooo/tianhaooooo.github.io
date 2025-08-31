@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- I am a second-year Ph.D. student in the Min H. Kao Department of Electrical Engineering and Computer Science at [The University of Tennessee, Knoxville](https://www.utk.edu/). I am a member of the [MoSIS Lab](https://mosis.eecs.utk.edu/members.html), under the supervision of [Dr. Jian Liu](https://web.eecs.utk.edu/~jliu/). --> 
 
-I am a second-year Ph.D. student in the [School of Computing](https://computing.uga.edu/) at [The University of Georgia](https://www.uga.edu/). I am a member of the [MoSIS Lab](https://mosis.uga.edu/), under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/), Associate Professor and Director of the Mobile Sensing and Intelligence Security (MoSIS) Lab.  
+I am a first-year Ph.D. student in the [School of Computing](https://computing.uga.edu/) at [The University of Georgia](https://www.uga.edu/). I am a member of the [MoSIS Lab](https://mosis.uga.edu/), under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/), Associate Professor and Director of the MoSIS Lab.  
 
 Before joining UGA, I spent two and a half years in the [Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu/) at [The University of Tennessee, Knoxville](https://www.utk.edu/), also under the supervision of Dr. Liu.  
 
