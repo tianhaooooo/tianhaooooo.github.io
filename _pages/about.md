@@ -23,6 +23,14 @@ News
 
 Publication
 ======
+**VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
+**Tianhao Wu**, Yi Wu, Bibek Poudel, Syed Irfan Ali, Rajasi Gore, Weizi Li, Zan Gao, Çağdaş KARATAŞ, Jian Liu
+ACM IMWUT/UbiComp, Sep, 2025.
+
+**mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
+Chandler Jackson Bauder, **Tianhao Wu**, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu
+ACM IMWUT/UbiComp, Sep, 2025.
+
 **3D Facial Tracking and User Authentication through Lightweight Single-ear Biosensors**  
 Yi Wu, Xiande Zhang, **Tianhao Wu**, Bing Zhou, Phuc Nguyen, Jian Liu
 IEEE TMC, Sep, 2024.
