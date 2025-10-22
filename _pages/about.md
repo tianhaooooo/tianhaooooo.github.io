@@ -29,6 +29,7 @@ News
 Publication
 ======
 **Conference & Journal Papers**
+
 [Microchimica Acta 2025] **Portable AI-driven electrochemical aptasensor for real-time Staphylococcus aureus detection in food and beverages**  
 Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
 
@@ -49,6 +50,7 @@ Yi Wu, Xiande Zhang, **Tianhao Wu**, Bing Zhou, Phuc Nguyen, Jian Liu
 Chandler Bauder, Abdel-Kareem Moadi, Vijaysrinivas Rajagopal, **Tianhao Wu**, Jian Liu, Aly E. Fathy 
 
 **Patent**
+
 [U.S. Provisional Application 2023] **User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors**  
 Jian Liu, VP Nguyen, Yi Wu, Xiande Zhang, **Tianhao Wu**   
 
