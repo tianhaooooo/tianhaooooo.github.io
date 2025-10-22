@@ -34,11 +34,11 @@ Publication
 Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
 
 
-[IMWUT/UbiComp 2025] **VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
+[ACM IMWUT/UbiComp 2025] **VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
 **Tianhao Wu**, Yi Wu, Bibek Poudel, Syed Irfan Ali, Rajasi Gore, Weizi Li, Zan Gao, Çağdaş KARATAŞ, Jian Liu
 
 
-[IMWUT/UbiComp 2025] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
+[ACM IMWUT/UbiComp 2025] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
 Chandler Jackson Bauder, **Tianhao Wu**, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu
 
 
