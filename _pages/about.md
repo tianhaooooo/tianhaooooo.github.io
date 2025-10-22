@@ -26,6 +26,11 @@ News
 
 Publication
 ======
+
+**Portable AI-driven electrochemical aptasensor for real-time Staphylococcus aureus detection in food and beverages**  
+Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
+Microchimica Acta, Oct, 2025.
+
 **VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
 **Tianhao Wu**, Yi Wu, Bibek Poudel, Syed Irfan Ali, Rajasi Gore, Weizi Li, Zan Gao, Çağdaş KARATAŞ, Jian Liu
 ACM IMWUT/UbiComp, Sep, 2025.
