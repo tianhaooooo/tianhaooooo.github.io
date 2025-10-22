@@ -18,7 +18,7 @@ My research interests are Mobile sensing, LLMs (Large Language Models), and AI f
 News
 ======
 - **October 2025**: one paper has been accepted to Microchimica Acta under Springer Nature.
-- 
+
 - **August 2025**: Two of our papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training:  
   - *VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations*  
   - *mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts*  
