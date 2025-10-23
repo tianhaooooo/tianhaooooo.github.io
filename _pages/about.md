@@ -17,13 +17,13 @@ My research interests are Mobile sensing, LLMs (Large Language Models), and AI f
 
 News
 ======
-- **Oct 2025**: one paper has been accepted to Microchimica Acta under Springer Nature.
+- **Oct 2025**: One paper has been accepted to Microchimica Acta under Springer Nature.
 
 - **Aug 2025**: Two of our papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
 
 - **Aug 2025**: I have moved from the University of Tennessee, Knoxville (UTK) to the University of Georgia (UGA), continuing my Ph.D. studies in the [School of Computing](https://computing.uga.edu/) at [UGA](https://www.uga.edu/) under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/).
 
-- **Aug 2025**: I’m excited to share that I will graduate with a Master of Science in Computer Science from the University of Tennessee, Knoxville.
+- **Aug 2025**: I’m excited to share that I have graduated with a Master of Science in Computer Science from the University of Tennessee, Knoxville.
 
 
 Publication
