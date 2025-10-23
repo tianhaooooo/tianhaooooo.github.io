@@ -19,9 +19,7 @@ News
 ======
 - **Oct 2025**: one paper has been accepted to Microchimica Acta under Springer Nature.
 
-- **Aug 2025**: Two of our papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training:  
-  - *VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations*  
-  - *mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts*  
+- **Aug 2025**: Two of our papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
 
 - **Aug 2025**: I have moved from the University of Tennessee, Knoxville (UTK) to the University of Georgia (UGA), continuing my Ph.D. studies in the [School of Computing](https://computing.uga.edu/) at [UGA](https://www.uga.edu/) under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/).
 
@@ -32,28 +30,28 @@ Publication
 ======
 **Conference & Journal Papers**
 
-[Microchimica Acta 2025] **Portable AI-driven electrochemical aptasensor for real-time Staphylococcus aureus detection in food and beverages**  
+[**Microchimica Acta 2025**] **Portable AI-driven electrochemical aptasensor for real-time Staphylococcus aureus detection in food and beverages**  
 Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
 
 
-[ACM IMWUT/UbiComp 2025] **VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
+[**ACM IMWUT/UbiComp 2025**] **VibRun: Real-time Unobtrusive Gait Analysis for Treadmill Running via Footstep Vibrations**  
 **Tianhao Wu**, Yi Wu, Bibek Poudel, Syed Irfan Ali, Rajasi Gore, Weizi Li, Zan Gao, Çağdaş KARATAŞ, Jian Liu
 
 
-[ACM IMWUT/UbiComp 2025] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
+[**ACM IMWUT/UbiComp 2025**] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
 Chandler Jackson Bauder, **Tianhao Wu**, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu
 
 
-[IEEE TMC 2024] **3D Facial Tracking and User Authentication through Lightweight Single-ear Biosensors**  
+[**IEEE TMC 2024**] **3D Facial Tracking and User Authentication through Lightweight Single-ear Biosensors**  
 Yi Wu, Xiande Zhang, **Tianhao Wu**, Bing Zhou, Phuc Nguyen, Jian Liu
 
 
-[IEEE J-ERM 2024] **MM-MURE: mmWave-Based Multi-Subject Respiration Monitoring via End-to-End Deep Learning**  
+[**IEEE J-ERM 2024**] **MM-MURE: mmWave-Based Multi-Subject Respiration Monitoring via End-to-End Deep Learning**  
 Chandler Bauder, Abdel-Kareem Moadi, Vijaysrinivas Rajagopal, **Tianhao Wu**, Jian Liu, Aly E. Fathy 
 
-**Patent**
+**Patents**
 
-[U.S. Provisional Application 2023] **User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors**  
+[**U.S. Provisional Application 2023**] **User Authentication and Photo-realistic Facial Animation Rendering via Ear-worn Biosensors**  
 Jian Liu, VP Nguyen, Yi Wu, Xiande Zhang, **Tianhao Wu**   
 
 
