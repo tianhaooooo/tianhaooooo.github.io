@@ -11,7 +11,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in the [School of Computing](https://computing.uga.edu/) at [The University of Georgia (UGA)](https://www.uga.edu/). I am a member of the [MoSIS Lab](https://mosis.uga.edu/), under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/). Before joining UGA, I spent two and a half years in the [Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu/) at [The University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), also under the supervision of Dr. Liu.  
 
-My research interests are Mobile sensing, LLMs (Large Language Models), and AI for smart fitness and health monitoring. 
+My research focuses on AI for smart fitness and healthcare. My work leverages mobile sensing, deep learning, and foundation models to model fine-grained human motion and physiological signals.
 
 
 
