@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- I am a second-year Ph.D. student in the Min H. Kao Department of Electrical Engineering and Computer Science at [The University of Tennessee, Knoxville](https://www.utk.edu/). I am a member of the [MoSIS Lab](https://mosis.eecs.utk.edu/members.html), under the supervision of [Dr. Jian Liu](https://web.eecs.utk.edu/~jliu/). --> 
 
-I am a first-year Ph.D. student in the [School of Computing](https://computing.uga.edu/) at [The University of Georgia](https://www.uga.edu/). I am a member of the [MoSIS Lab](https://mosis.uga.edu/), under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/). Before joining UGA, I spent two and a half years in the [Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu/) at [The University of Tennessee, Knoxville](https://www.utk.edu/), also under the supervision of Dr. Liu.  
+I am a first-year Ph.D. student in the [School of Computing](https://computing.uga.edu/) at [The University of Georgia (UGA)](https://www.uga.edu/). I am a member of the [MoSIS Lab](https://mosis.uga.edu/), under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/). Before joining UGA, I spent two and a half years in the [Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu/) at [The University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), also under the supervision of Dr. Liu.  
 
 My research interests are Mobile sensing, LLMs (Large Language Models), and AI for smart fitness and health monitoring. 
 
@@ -19,11 +19,11 @@ News
 ======
 - **Oct 2025**: One paper has been accepted to Microchimica Acta under Springer Nature.
 
-- **Aug 2025**: Two of our papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
+- **Aug 2025**: Two papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
 
-- **Aug 2025**: I have moved from the University of Tennessee, Knoxville (UTK) to the University of Georgia (UGA), continuing my Ph.D. studies in the [School of Computing](https://computing.uga.edu/) at [UGA](https://www.uga.edu/) under the supervision of [Dr. Jian Liu](https://mosis.uga.edu/jianliu/).
+- **Aug 2025**: I have moved from the UTK to the University of Georgia (UGA), continuing my Ph.D. studies in the [School of Computing](https://computing.uga.edu/) at [UGA](https://www.uga.edu/).
 
-- **Aug 2025**: I’m excited to share that I have graduated with a Master of Science in Computer Science from the University of Tennessee, Knoxville.
+- **Aug 2025**: I’m excited to share that I have graduated with a Master of Science in Computer Science from UTK.
 
 
 Publication
@@ -38,8 +38,9 @@ Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
 **Tianhao Wu**, Yi Wu, Bibek Poudel, Syed Irfan Ali, Rajasi Gore, Weizi Li, Zan Gao, Çağdaş KARATAŞ, Jian Liu
 
 
-[**ACM IMWUT/UbiComp 2025**] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts**  
-Chandler Jackson Bauder, **Tianhao Wu**, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu
+[**ACM IMWUT/UbiComp 2025**] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts** 
+Chandler Jackson Bauder\*, **Tianhao Wu**\*, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu  
+<small>\* Equal contribution</small>
 
 
 [**IEEE TMC 2024**] **3D Facial Tracking and User Authentication through Lightweight Single-ear Biosensors**  
