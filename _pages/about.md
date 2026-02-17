@@ -39,6 +39,7 @@ Shokoufeh Soleimani, **Tianhao Wu**, Jian Liu, Michael K. Danquah
 
 
 [**ACM IMWUT/UbiComp 2025**] **mm-RunAssist: mmWave-based Respiratory and Running Rhythm Analysis During Treadmill Workouts** 
+
 Chandler Jackson Bauder\*, **Tianhao Wu**\*, Syed Irfan Ali Meerza, Aly Fathy, Jian Liu  
 <small>\* Equal contribution</small>
 
