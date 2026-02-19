@@ -21,7 +21,7 @@ News
 
 - **Aug 2025**: Two papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
 
-- **Aug 2025**: I have moved from UTK to UGA, continuing my Ph.D. studies at UGA.
+- **Aug 2025**: I have moved from UTK to UGA, continuing my Ph.D. studies there.
 
 - **Aug 2025**: I’m excited to share that I have graduated with a Master of Science in Computer Science from UTK.
 
