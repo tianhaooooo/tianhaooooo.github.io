@@ -17,6 +17,8 @@ My research focuses on AI for smart fitness and healthcare. My work leverages mo
 
 News
 ======
+- **Apr 2026**: I received the Graduate Student Research Award from the University of Georgia School of Computing.
+
 - **Oct 2025**: One paper has been accepted to Microchimica Acta under Springer Nature.
 
 - **Aug 2025**: Two papers have been accepted to *IMWUT/UbiComp 2025*, both focusing on fitness and treadmill-based training.
@@ -72,6 +74,8 @@ Award
 ======
 - **Fellowship / Scholarship**
 
+    Graduate Student Research Award, UGA, 2026
+  
     Graduate School Fellowship (GSF), UTK, 2023-2024
 
     Merit Scholarship, NEAU, 2020-2021
